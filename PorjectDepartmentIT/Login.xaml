@@ -1,0 +1,22 @@
+﻿<Window x:Class="PorjectDepartmentIT.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PorjectDepartmentIT"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Login" Height="300" Width="300">
+    <Grid>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="92,56,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_SelectionChanged">
+            <TextBlock>Admin</TextBlock>
+            <TextBlock>Master</TextBlock>
+            <TextBlock>Ucer</TextBlock>
+        </ComboBox>
+        <Label x:Name="lbl_attention" Content="Attention" HorizontalAlignment="Left" Margin="92,132,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="OK" HorizontalAlignment="Left" Margin="92,163,0,0" VerticalAlignment="Top" Width="120" Click="btn_input"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="92,98,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

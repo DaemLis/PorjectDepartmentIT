@@ -1,0 +1,31 @@
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\PorjectDepartmentIT.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\PorjectDepartmentIT.exe
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\PorjectDepartmentIT.pdb
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.exe
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.pdb
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\Login.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\Login.baml
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\ReportFirst.baml
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\ReportFirst.g.cs
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\RdlCompile.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2015\Projects\PorjectDepartmentIT\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebDev\git\PorjectDepartmentIT\bin\Debug\PorjectDepartmentIT.exe.config
+D:\WebDev\git\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.exe
+D:\WebDev\git\PorjectDepartmentIT\obj\Debug\PorjectDepartmentIT.pdb
